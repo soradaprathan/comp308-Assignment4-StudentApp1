@@ -10,7 +10,7 @@ export default function StudentForm() {
         <h2 className="text-center mb-4">Student Form</h2>
         <div className="mb-3">
           <label htmlFor="name" className="form-label">
-            Student Name
+            Name
           </label>
           <input
             type="text"
